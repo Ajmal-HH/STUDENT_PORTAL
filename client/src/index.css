@@ -1,0 +1,57 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+
+.search {
+  display: flex;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.card {
+  background-color: #f8f9fa;
+  border: none;
+  border-radius: 10px;
+}
+
+.card-title {
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #343a40;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.row > div {
+  padding: 20px;
+}
+
+h2 {
+  color: #343a40;
+}
+
+
+.details {
+ margin-top: 70px;
+}
+
+.back {
+  text-decoration: none;
+  color: black;
+  
+}
